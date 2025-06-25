@@ -1,0 +1,23 @@
+﻿  Game.cpp
+C:\Users\cioca\Documents\Visual Studio 2022\Repos\itschool_C++\Proiect\Proiect\Game.h(11,51): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'Game.cpp')
+  
+C:\Users\cioca\Documents\Visual Studio 2022\Repos\itschool_C++\Proiect\Proiect\Game.cpp(49,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\cioca\Documents\Visual Studio 2022\Repos\itschool_C++\Proiect\Proiect\Game.cpp(50,45): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\cioca\Documents\Visual Studio 2022\Repos\itschool_C++\Proiect\Proiect\Game.cpp(114,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\cioca\Documents\Visual Studio 2022\Repos\itschool_C++\Proiect\Proiect\Game.cpp(115,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\cioca\Documents\Visual Studio 2022\Repos\itschool_C++\Proiect\Proiect\Game.cpp(141,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\cioca\Documents\Visual Studio 2022\Repos\itschool_C++\Proiect\Proiect\Game.cpp(142,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\cioca\Documents\Visual Studio 2022\Repos\itschool_C++\Proiect\Proiect\Game.cpp(176,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\cioca\Documents\Visual Studio 2022\Repos\itschool_C++\Proiect\Proiect\Game.cpp(180,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\cioca\Documents\Visual Studio 2022\Repos\itschool_C++\Proiect\Proiect\Game.cpp(294,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Proiect.cpp
+C:\Users\cioca\Documents\Visual Studio 2022\Repos\itschool_C++\Proiect\Proiect\Game.h(11,51): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'Proiect.cpp')
+  
+C:\Users\cioca\Documents\Visual Studio 2022\Repos\itschool_C++\Proiect\Proiect\Proiect.cpp(8,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\cioca\Documents\Visual Studio 2022\Repos\itschool_C++\Proiect\Proiect\Proiect.cpp(36,59): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  Proiect.vcxproj -> C:\Users\cioca\Documents\Visual Studio 2022\Repos\itschool_C++\Proiect\x64\Debug\Proiect.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
